@@ -8,7 +8,7 @@
 	var productsCatalog = [
 		new Product('111', 'Milk', 1.99),
 		new Product('222', 'Beer', 2.99),
-		new Product('333', 'Coke', 3.99),
+		new Product('444', 'Coke', 3.99),
 	];
 
 	function Product(sku, name, price) {
